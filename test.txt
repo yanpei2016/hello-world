@@ -1,5 +1,6 @@
 mingtian nihao 
 
+
 houtian  nihao
 
 jintian nihao
@@ -13,3 +14,8 @@ jintian nihao
 // add之后再更改 然后直接commit
 
 // 我在dev分支上对该文件进行 了修改
+
+12123123213
+
+1212121212
+>>>>>>> feature_x
