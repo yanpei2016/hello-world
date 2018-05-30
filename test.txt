@@ -10,3 +10,4 @@ jintian nihao
 // git commit 将暂存区的内容提交到master分支上
 
 // 新增内容sssss
+// add之后再更改 然后直接commit
